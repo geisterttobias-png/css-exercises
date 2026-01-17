@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+.odd_numbers {
+  background-color: rgb(255, 0, 187);
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+#2 {
+  color: rgb(0, 42, 255);
+  font-size: 36px;
+}
+#4 {
+  color: rgb(0, 255, 34);
+  font-weight: bold;
+}
+
+.font_size {
+  font-size: 36px;
+}
